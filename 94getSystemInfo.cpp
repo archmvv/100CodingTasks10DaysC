@@ -11,7 +11,7 @@ int main(){
     cout << "Host name:           " << sysInfo.nodename << "\n";
     cout << "Release (Kernel) version:           " << sysInfo.release << "\n";
     cout << "Kernel Build Timestamp:           " << sysInfo.version << "\n";
-    cout << "Domain name:           " << sysInfo.domainnamr << "\n";
+    cout << "Domain name:           " << sysInfo.domainname << "\n";
 
     return 0;
 }
